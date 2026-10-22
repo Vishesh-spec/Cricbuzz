@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas>=2.0
+requests>=2.31
+SQLAlchemy>=2.0
+python-dotenv>=1.0
+
+# Optional database connectors (install only the one you use)
+# pymysql>=1.1          # MySQL      -> DB_URL=mysql+pymysql://user:pass@localhost/cricbuzz
+# psycopg2-binary>=2.9  # PostgreSQL -> DB_URL=postgresql+psycopg2://user:pass@localhost/cricbuzz
