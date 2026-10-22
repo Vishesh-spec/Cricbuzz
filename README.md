@@ -4,11 +4,11 @@
 
 **Real-time cricket insights and SQL-based analytics in one Streamlit dashboard**
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00)
-![SQLite](https://img.shields.io/badge/SQLite-Default%20DB-003B57?logo=sqlite&logoColor=white)
-![API](https://img.shields.io/badge/Data-Cricbuzz%20via%20RapidAPI-1A73E8)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B.svg)](https://streamlit.io/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00.svg)](https://www.sqlalchemy.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-Default%20DB-003B57.svg)](https://www.sqlite.org/)
+[![API](https://img.shields.io/badge/Data-Cricbuzz%20via%20RapidAPI-1A73E8.svg)](https://rapidapi.com/)
 
 </div>
 
